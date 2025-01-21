@@ -6,9 +6,9 @@ INSERT INTO students (
   email
 )
 VALUES (
-  "Jane",
-  "Doe",
-  "jane@example.com"
+  "Stephen",
+  "Moelis",
+  "smoelis.lastrada@gmail.com"
 );
 
 -- Read newly added student data

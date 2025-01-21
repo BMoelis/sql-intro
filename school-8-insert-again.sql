@@ -6,9 +6,9 @@
   email
 )
 VALUES (
-  "Jane",
-  "Doe",
-  "jane@example.com"
+  "Stephen",
+  "Moelis",
+  "smoelis.lastrada@gmail.com"
 );
 
 -- Reading new data

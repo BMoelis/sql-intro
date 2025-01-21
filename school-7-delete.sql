@@ -1,7 +1,7 @@
  -- Deleting data
 
 DELETE FROM students
-WHERE id = 1;
+WHERE id = 2;
 
 -- Reading new data
 
